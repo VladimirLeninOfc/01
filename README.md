@@ -1,6 +1,1 @@
-<img src="{https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white}" />
-
-
-
-
-![https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white]({https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white})
+<img src="{https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white}" />
