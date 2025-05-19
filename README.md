@@ -1,8 +1,22 @@
+<!DOCTYPE>
 <html>
+
  <head>
 
 
 
+
+
+
+
+
+
+
+
+</head>
+
+
+<body>
 
 
 
@@ -12,10 +26,10 @@
 
 
 
-</head>
 
 
 
+</body>
 
 
 
